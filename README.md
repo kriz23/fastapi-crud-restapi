@@ -22,4 +22,4 @@ Antes de proceder es necesario comprobar la instalación y usabilidad de `conda`
 
 `pip install -r requirements.txt`
 
-Nota: Cuando se instale una nueva dependencia se tiene que dar el siguiente comando: `pip freeze > requirements.txt`
+Nota: Cuando se instale una nueva dependencia se tiene que dar el siguiente comando: `pipreqs --force`
